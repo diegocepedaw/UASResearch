@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "uasresearch",
+    "project_number": "263319288173",
+    "name": "UASResearch"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263319288173:android:cc27ab69486013df",
+        "client_id": "android:drone.uas.research",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "drone.uas.research"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263319288173-r8mku5ac5noo2342cfpsp61195fk2km6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "drone.uas.research",
+            "certificate_hash": "11DFE832163523CD5AEE481F33C944E3717F0F8F"
+          }
+        },
+        {
+          "client_id": "263319288173-pg03q2eaa8cf5m9cqhr0tnc1lag8hprb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
